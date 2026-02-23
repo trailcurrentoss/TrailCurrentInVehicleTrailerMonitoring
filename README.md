@@ -1,6 +1,6 @@
 # TrailCurrent In-Vehicle Trailer Monitoring
 
-Touchscreen display firmware for an ESP32-S3 Box that receives and displays trailer monitoring data via ESP-NOW wireless protocol.
+Touchscreen display firmware for an ESP32-S3 Box that receives and displays trailer monitoring data via ESP-NOW wireless protocol. Part of the [TrailCurrent](https://trailcurrent.com) open-source vehicle platform.
 
 ## Hardware Overview
 
